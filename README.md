@@ -114,7 +114,7 @@ stop_condition_1_hour = optimization.StopCondition(time_limit=datetime.timedelta
 ```
 2) Stop conditions for optimization process to last:
 - maximal 1 day
-- until solution with objective value of ```100``` or better is found
+- until solution with objective value of `100` or better is found
 - stop optimization process if optimization algorithm could not found better solution for 1000 iterations
 - stop optimization process if optimization algorithm could not found better solution for 2 hours
 ```python
