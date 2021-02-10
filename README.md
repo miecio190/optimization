@@ -100,8 +100,8 @@ following cases that you can configure:
     If a solution with better value (lower in case of minimization, higher in case of maximization), 
     then optimization process will be stopped in this iteration.
 - **No progress** - this option gives you possibility to force optimization process stop either after:
-    - ```n``` optimization algorithm iteration during which no better solution was found
-    - ```t``` time during which no better solution was found by optimization algorithm  
+    - `max_iter_without_progress` optimization algorithm iteration during which no better solution was found
+    - `max_time_without_progress` time during which no better solution was found by optimization algorithm  
 
 Examples:
 1) Stop condition for optimization process that is supposed to last 1 hour:
