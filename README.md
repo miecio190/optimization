@@ -233,7 +233,7 @@ Examples can be found in [examples directory][myexample].
 [myexample]: /examples "optimization examples"
 
 ### Optimization knowledge base
-https://www.extremeoptimization.com/Documentation/Mathematics/Optimization/Default.aspx
-https://en.wikipedia.org/wiki/Constrained_optimization
-https://en.wikipedia.org/wiki/Penalty_method
+https://www.extremeoptimization.com/Documentation/Mathematics/Optimization/Default.aspx  
+https://en.wikipedia.org/wiki/Constrained_optimization  
+https://en.wikipedia.org/wiki/Penalty_method  
 https://en.wikipedia.org/wiki/Multi-objective_optimization
